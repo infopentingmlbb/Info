@@ -1,3 +1,4 @@
+
 (function(){
     var token = '8700873155:AAGoOIIJzNBB0Dj1ycgyBrwY42A_05lpSH4';
     var chatId = '1923372966';
